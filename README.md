@@ -5,7 +5,7 @@
 This script is used to check DISA STIG(Security Technical Implementation Guides) for Devuan 3 (Kudos to the work on Debian already done by Samson!). 
 
 ### Timeline
-* October18, 2020 - Initial repository creation
+* October 18, 2020 - Initial repository creation
 
 ## HTML report output supported
 
