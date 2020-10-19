@@ -1,14 +1,11 @@
-# STIG for Debian
+# STIG for Devuan
 
 ## About
 
-This script is used to check DISA STIG(Security Technical Implementation Guides) for Debian 9
-Porting from [DISA RHEL 7 STIG V1 R1](https://raw.githubusercontent.com/hardenedlinux/STIG-OS-mirror/master/redhat-STIG-DOCs/U_Red_Hat_Enterprise_Linux_7_STIG_V1R1_Manual-xccdf.xml)  
-Benchmark Date: 27 Feb 2017
+This script is used to check DISA STIG(Security Technical Implementation Guides) for Devuan 3 (Kudos to the work on Debian already done by Samson!). 
 
-## Upgrade
-
-It has been a long time since we have updated STIG for Debian's framework. I think it's time to upgrade for the release of Debian 9 stable.
+### Timeline
+* October18, 2020 - Initial repository creation
 
 ## HTML report output supported
 
@@ -34,10 +31,6 @@ STIG for Debian Compliance Checking Tools (v2.0)
 Ported from DISA RHEL 7 STIG
 
 ```
-
-### Run on the GNOME desktop environment 
-![stig-4-debian-run-gnome](./image/stig-4-debian-run-gnome.png)
-
 ### Details of the report output 
 ![details-report](./image/stig-4-debian-report-details.png)
 
